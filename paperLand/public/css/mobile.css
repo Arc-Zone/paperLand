@@ -41,7 +41,6 @@ img {
 header {
     align-items: center;
     /* text-align: center; */
-    background-color: #dfdfe2;
     position: sticky;
     top: 0;
     z-index: 999;
