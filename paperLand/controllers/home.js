@@ -1,4 +1,4 @@
-const db = require('../models/database.js')
+
 function landingPage (req , res){
     res.render("landingPage.ejs")
 }
