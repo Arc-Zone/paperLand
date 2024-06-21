@@ -1,4 +1,3 @@
-
 function landingPage (req , res){
     res.render("landingPage.ejs")
 }
