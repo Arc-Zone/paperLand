@@ -252,7 +252,8 @@ nav a:hover {
 }
 
 .table-size {
-    width: 90%;
+    display: flex;
+    width: 50%;
     margin: auto;
     margin-bottom: 2em;
 }
