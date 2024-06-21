@@ -166,7 +166,9 @@ nav a:hover {
 }
 
 
-
+.special-impression{
+    text-align: center;
+}
 .pic-ctn  {
     background-color: #f9f3ee;
     display: flex;
