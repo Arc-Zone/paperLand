@@ -224,13 +224,14 @@ nav a:hover {
 }
 
 .img-contain-size {
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
     width: 85%;
     margin: auto;
 }
 
 .img-contain-size img {
-    width: 100%;
+    width: 50%;
     margin: 1px;
 }
 
