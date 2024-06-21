@@ -9,7 +9,7 @@ h1,h2,h3{
   
 }
 h1,h2{
-    font-size: 3em;
+    font-size: 2em;
 }
 p,span , a{
     font-family: "Abhaya Libre", serif;
@@ -18,7 +18,9 @@ p,span , a{
     font-size: 1.3em;
     color: #5a595d;
 }
-
+p,span {
+    font-size: 1.2em;
+}
 * {
     line-height: 1.2em;
     margin: 0;
