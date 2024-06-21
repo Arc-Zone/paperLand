@@ -377,7 +377,13 @@ nav a:hover {
 /* Media Queries pour les écrans plus larges */
 
 @media (min-width: 768px) {
-    
+    .table-size{
+        display: block;
+    }
+    .table-size div {
+        margin: auto;
+        width: 90%;
+    }
     .contain-delivery img {
         width: 20%;
         margin: 0;
@@ -405,6 +411,10 @@ nav a:hover {
     }
     .img-contain-size {
         display: flex;
+        flex-wrap: nowrap;
+    }
+    .img-contain-size img {
+        width: 40%;
     }
     img {
         width: 100%;
