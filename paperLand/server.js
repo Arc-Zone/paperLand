@@ -10,6 +10,6 @@ app.use(express.urlencoded({ extended: true })) // for parsing application/x-www
 app.use('/', routes.router)
 
 
-app.listen(3001, () => {
-    console.log('Start server on port 3001')
+app.listen(3000, () => {
+    console.log('Start server on port 3000')
 })
